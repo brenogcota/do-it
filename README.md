@@ -3,7 +3,7 @@
 </p>
 
 # Do it
-create things together based on these ideas https://github.com/florinpop17/app-ideas
+## create things together based on these ideas https://github.com/florinpop17/app-ideas
 
 🌟 - Project ideas - [see more](https://github.com/florinpop17/app-ideas)
 
